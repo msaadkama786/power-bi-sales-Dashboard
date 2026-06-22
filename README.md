@@ -2,7 +2,7 @@
 ## Project Objective
 Pavan Lalwani wants to create an annual sales report . So that, the owner of the Pavan Lalwani can understand their customers and grow more sales or not.
 # Data Set
-<a href="https://github.com/msaadkama786/Sales-Dashboard-1/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Data Set</a>
+<a href="https://github.com/msaadkama786/power-bi-sales-Dashboard/edit/main/README.md">Data Set</a>
 # Question(KPIS)
 
 # Process
