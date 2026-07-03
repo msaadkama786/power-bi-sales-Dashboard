@@ -12,7 +12,7 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-Dashboard Interaction<a href="https://github.com/msaadkama786/power-bi-sales-Dashboard/commit/44450c8ee9f7ac89a2c605b2422736619ad45de5">Dashboard<a/>
+Dashboard Interaction<a href="https://github.com/msaadkama786/power-bi-sales-Dashboard/blob/main/Screenshort_Sales_dashboard_Powerbi.png">Dashboard<a/>
 ## project Insight
 Developed an interactive Power BI dashboard to analyze Sales, Profit, Quantity, and Discount across different business dimensions.
 Achieved Total Sales of 2.30M, Total Profit of 286.40K, 38K Quantity Sold, and 1.56K Total Discount.
